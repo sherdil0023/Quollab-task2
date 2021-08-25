@@ -1,0 +1,136 @@
+h1 {  
+    margin-left: 70px;  
+}  
+
+h3{
+    color: blueviolet;
+    font-size: 100px;
+    text-align: center;
+    margin: 5px 5px 5px 5px;
+}
+
+form li {  
+    list-style: none;  
+    margin-bottom: 5px;  
+}    
+
+.footer {
+    position: fixed;
+    /* right: 0; */
+    font-style: oblique;
+    font-weight: 100;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    height: 5px;
+    padding: 1rem;
+    background-color: #efefef;
+    text-align: center;
+  }
+
+
+.preview{
+    width: 25%;
+    height: 143.25%;
+    border: 0.5px solid;
+    border-color: black;
+    color: red;
+    text-align: center;
+    width: 50%;
+    /* display: block; */
+    float: right;
+    box-sizing: border-box;
+    background-color: pink;
+}
+
+.body_compl{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: tomato;
+    padding-top: 1px;
+    font-size: 25px;
+}
+
+.formInput{
+    width: 50px;
+    /* height:; */
+    border: 0.5px solid;
+    color: black;
+    background-color: yellowgreen;
+    text-align: center;
+    width: 50%;
+    display: block;
+    float: left;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.previd, .prevname, .prevadd, .prevcoun, .prevzip, .prevemail, .prevphone{
+    margin: 30px 30px 30px 30px;
+    font-size: 20px;
+    color: green;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+form ul li label{  
+    float: left;  
+    clear: left;  
+    width: 200px;  
+    /* text-align: center;   */
+    margin-right: 20px;  
+    font-family:Verdana, Arial, Helvetica, sans-serif;  
+    font-size:14px;  
+}  
+
+form ul li button, table{
+    float: left;
+    clear: left;
+    width: 600px;  
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+}
+
+.emailnew, .useridnew, .passnew, .addnew, .namenew, .zipnew, .phonenew, .countrynew, .linkednew, .githubnew{
+    float: left;  
+    clear: left;  
+    width: 500px;  
+    color: red;
+    text-align: center;  
+    margin-right: 20px;  
+    margin-bottom: 20px;
+    font-family:Verdana, Arial, Helvetica, sans-serif;  
+    font-size:14px;  
+}
+
+form ul li input, select, span {  
+    float: left;  
+    margin-bottom: 10px;  
+}  
+      
+.educa {
+    border: 1px solid;
+    text-align: center;
+    background-color: lightgreen;
+}
+form textarea {  
+    float: left;  
+    width: 350px;  
+    height: 150px;  
+}  
+      
+[type="submit"] {  
+    clear: left;  
+    margin: 20px 0 40px 230px;  
+    font-size:18px  
+}  
+      
+p {  
+    margin-left: 70px;  
+    font-weight: bold;  
+}  
+
+
